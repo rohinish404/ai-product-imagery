@@ -2,6 +2,13 @@
 
 An end-to-end AI-powered solution for extracting and enhancing product images from YouTube videos. The system uses LangGraph for workflow orchestration, Google Gemini's multimodal capabilities for intelligent frame selection and segmentation, and Hugging Face's FLUX.1-dev for professional image generation.
 
+# Demo (sped up)
+
+
+https://github.com/user-attachments/assets/f6a322d4-a73f-4463-8148-b9d7c76da4af
+
+
+
 ## Overview
 
 This application processes YouTube product review/unboxing videos and automatically:

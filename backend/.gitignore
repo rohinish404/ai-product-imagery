@@ -1,0 +1,50 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyo
+*.pyd
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables (contains API keys)
+.env
+.env.local
+.env.*.local
+
+# Temporary files and job data
+temp/
+tmp/
+*.tmp
+*.temp
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+*.swp
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# uv lock file (optional - comment out if you want to track it)
+# uv.lock
